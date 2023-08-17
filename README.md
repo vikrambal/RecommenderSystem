@@ -1,2 +1,2 @@
-# RecommenderSystem
-A recommender system for books
+# Lit Recs
+A machine learning powered recommendation system for books
